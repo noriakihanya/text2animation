@@ -14,15 +14,14 @@ https://github.com/google-research/frame-interpolation
 
 
 # Requirement
-
 * diffusers
 * frame-interpolation
 * Real-ESRGAN（画像の高解像度化プログラム）
 
 # Usage
 * Access Tokensの取得<br>
-初めに、以下のサイトからHuggingFaceのアカウントを作成し、CompVis/stable-diffusion-v1-4へのにAccess Tokensを取得<br>
-[Settings]->[Access Tokens]に移動しNewTokenをコピーし、Access Tokenの入力フォームへペースト
+1. 初めに、以下のサイトからHuggingFaceのアカウントを作成し、CompVis/stable-diffusion-v1-4へのにAccess Tokensを取得<br>
+2. [Settings]->[Access Tokens]に移動しNewTokenをコピーし、Access Tokenの入力フォームへペースト
 
 https://huggingface.co
 
