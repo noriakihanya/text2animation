@@ -27,7 +27,7 @@ FILMのモデルはColabからダウンロードできないため、GoogleDrive
 <img width="884" alt="スクリーンショット 2022-09-02 15 24 07" src="https://user-images.githubusercontent.com/105255463/188397227-6736fefd-b653-4529-ae08-7f2cfc1ea3d1.png">
 
 
-* promptの入力<br>
+* 生成したい画像イメージを入力<br>
 日本語入力に対応しているため、'日本語入力'か'英語入力'を選択する<br>
 英語入力にはあらかじめいくつか選択肢を用意しているが、任意の文字列を入力することも可能<br>
 <img width="1105" alt="スクリーンショット 2022-09-05 16 43 16" src="https://user-images.githubusercontent.com/105255463/188395581-b7bc3574-493c-4dc7-94a1-9ee13d3c40d4.png">
