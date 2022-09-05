@@ -35,3 +35,10 @@ FILMのモデルはColabからダウンロードできないため、GoogleDrive
 * アニメーションの再生時間を入力
 <img width="548" alt="スクリーンショット 2022-09-05 16 44 57" src="https://user-images.githubusercontent.com/105255463/188395865-a7c0aaff-4b98-4a78-a36e-0c3da1f67e3d.png">
 
+* Real-ESRGANによる高解像度処理<>br
+オプションとして、Real-ESRGANによる高解像度処理が可能となっている
+<img width="663" alt="スクリーンショット 2022-09-05 17 04 04" src="https://user-images.githubusercontent.com/105255463/188399592-0c7c841c-f76e-42c8-8ae1-6254c03ba885.png">
+Real-ESRGAN
+https://github.com/NightmareAI/Real-ESRGAN
+
+
