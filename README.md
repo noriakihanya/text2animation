@@ -9,21 +9,16 @@ https://github.com/google-research/frame-interpolation
 # DEMO
 
 
-
-# Requirement
-* diffusers
-* frame-interpolation
-* Real-ESRGAN（画像の高解像度化プログラム）
-
 # Usage
 * Access Tokensの取得<br>
 以下のサイトからHuggingFaceのアカウントを作成し、CompVis/stable-diffusion-v1-4へのAccess Tokensを取得<br>
 https://huggingface.co<br>
-※[Settings]->[Access Tokens]に移動しNewTokenをコピーし、Access Tokenの入力フォームへペースト
+※[Settings]->[Access Tokens]に移動しTokenをコピーする
 <img width="231" alt="スクリーンショット 2022-09-05 16 46 36" src="https://user-images.githubusercontent.com/105255463/188396200-aaa52531-b73e-4301-8f11-ea2c62769876.png">
 <img width="855" alt="スクリーンショット 2022-09-05 16 47 42" src="https://user-images.githubusercontent.com/105255463/188396409-4ba60f3c-3942-45b0-b900-965350ece6f0.png">
 
 * Access Tokensの入力
+コピーしたAccess Tokensを入力する
 <img width="662" alt="スクリーンショット 2022-09-05 16 50 47" src="https://user-images.githubusercontent.com/105255463/188396987-b91a1e2a-05d7-4a99-9df1-78904ff9b076.png">
 
 * FILMの学習済みモデルのロード
