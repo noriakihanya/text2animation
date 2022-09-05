@@ -10,9 +10,9 @@ https://github.com/google-research/frame-interpolation
 
 
 # Usage
-* Access Tokensの取得<br>. 
+* Access Tokensの取得<br>
 以下のサイトからHuggingFaceのアカウントを作成し、CompVis/stable-diffusion-v1-4へのAccess Tokensを取得<br>
-https://huggingface.co<br>. 
+https://huggingface.co<br>
 
 画面右上のアカウントのアイコンから[Settings]->[Access Tokens]に移動しTokenをコピーする
 <img width="231" alt="スクリーンショット 2022-09-05 16 46 36" src="https://user-images.githubusercontent.com/105255463/188396200-aaa52531-b73e-4301-8f11-ea2c62769876.png">
