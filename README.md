@@ -22,7 +22,7 @@ https://huggingface.co<br>
 <img width="662" alt="スクリーンショット 2022-09-05 16 50 47" src="https://user-images.githubusercontent.com/105255463/188396987-b91a1e2a-05d7-4a99-9df1-78904ff9b076.png">
 
 * FILMの学習済みモデルのロード<br>
-FILMのモデルはColabからダウンロードできないため、GoogleDriveのMyDriveにモデルのショートカットを追加しロードできるようにする。
+FILMのモデルはColabからダウンロードできないため、GoogleDriveのMyDriveにモデルのショートカットを追加しロードできるようにする
 <img width="903" alt="スクリーンショット 2022-09-02 15 23 41" src="https://user-images.githubusercontent.com/105255463/188397188-0f8661a7-1840-4b47-aa04-4d9514bbe214.png">
 <img width="884" alt="スクリーンショット 2022-09-02 15 24 07" src="https://user-images.githubusercontent.com/105255463/188397227-6736fefd-b653-4529-ae08-7f2cfc1ea3d1.png">
 
