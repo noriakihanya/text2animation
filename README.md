@@ -7,8 +7,7 @@ https://github.com/CompVis/stable-diffusion
 https://github.com/google-research/frame-interpolation
 
 # DEMO
-https://user-images.githubusercontent.com/105255463/188541776-7218c53e-ead2-4087-896d-d924ed90c523.mp4
-
+https://user-images.githubusercontent.com/105255463/188546915-688ce143-4763-40c5-96a8-a7c306796618.mp4
 
 # Usage
 * Access Tokensの取得<br>
