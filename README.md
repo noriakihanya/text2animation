@@ -7,6 +7,7 @@ https://github.com/CompVis/stable-diffusion
 https://github.com/google-research/frame-interpolation
 
 # DEMO
+https://user-images.githubusercontent.com/105255463/188541776-7218c53e-ead2-4087-896d-d924ed90c523.mp4
 
 
 # Usage
